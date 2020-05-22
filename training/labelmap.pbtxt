@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'Psoriasis'
+}
+
+item {
+  id: 2
+  name: 'Melanoma'
+}
+
+item {
+  id: 3
+  name: 'Herpes_Simplex'
+}
+
+item {
+  id: 4
+  name: 'Eczema'
+}
